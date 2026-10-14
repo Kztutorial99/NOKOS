@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nokos SMS</string>
+    <string name="tagline">Virtual SMS &amp; OTP Real-time Receiver</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="services">Layanan</string>
+    <string name="orders">Pesanan Aktif</string>
+    <string name="history">Riwayat &amp; Vault</string>
+    <string name="settings">Pengaturan</string>
+</resources>

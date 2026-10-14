@@ -1,0 +1,6 @@
+{
+  "name": "Nokos SMS",
+  "description": "Aplikasi Nokos SMS Virtual OTP Receiver aman dengan integrasi real-time SMSCode.gg dan enkripsi end-to-end.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
